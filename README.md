@@ -69,5 +69,5 @@
 
 この研究会に関するお問い合わせや、メンバーとしての定期参加をご希望の方は、以下のフォームからお問い合わせください。
 
-**▶ [お問い合わせフォーム（Google フォーム）](https://forms.gle/ZGYF3Ro9qeztXC2r8){:target="_blank"}**
+**▶ [お問い合わせフォーム（Google フォーム）](https://forms.gle/ZGYF3Ro9qeztXC2r8)**
 
