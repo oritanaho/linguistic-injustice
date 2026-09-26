@@ -14,7 +14,7 @@
 - **内容**：〔話題提供者・題目、または全体の趣旨〕
 - **参加費**：無料
 - **参加方法**：どなたでも傍聴・参加いただけます。参加をご希望の方は以下の参加申し込みフォームからお申し込みください。<br>
-  📝 [申し込みフォーム](〔https://docs.google.com/forms/d/e/1FAIpQLSejew8RkoFwgTF0tYyrMXIV3C9w18Sr7VNrlmm5E7k-GcfBmA/viewform?usp=header〕)
+  📝 [申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLSejew8RkoFwgTF0tYyrMXIV3C9w18Sr7VNrlmm5E7k-GcfBmA/viewform?usp=header)
 - **参加申し込み締切**：10月〇日〇時
 - **情報保障**：情報保障が必要な方は2週間前までに上記「参加方法」にある申し込みフォームでご連絡ください。<br>
 
@@ -70,5 +70,5 @@
 
 この研究会に関するお問い合わせや、メンバーとしての定期参加をご希望の方は、以下のフォームからお問い合わせください。
 
-**▶ [お問い合わせフォーム（Google フォーム）](〔https://forms.gle/ZGYF3Ro9qeztXC2r8〕)**
+**▶ [お問い合わせフォーム（Google フォーム）](https://forms.gle/ZGYF3Ro9qeztXC2r8)**
 
