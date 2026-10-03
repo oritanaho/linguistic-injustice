@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: 言語的不公正研究会　
 description: 日本言語学会 特設研究会 
+github:
+  is_project_page: false
